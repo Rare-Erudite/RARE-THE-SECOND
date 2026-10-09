@@ -1,0 +1,8 @@
+{
+  "name": "RARE",
+  "description": "Protected, self-building personal AI core and connected command center with conversation, memory, documents, research, and developer tools.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
